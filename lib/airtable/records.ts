@@ -22,6 +22,5 @@ type DpaFields = {
   'Kontakt Beauftragte*r'?: string[];
   'Infos aus Anruf'?: string[];
   Webseiten?: string[];
-  Emails?: string[];
   Urteile?: string[];
 };
