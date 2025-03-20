@@ -8,8 +8,9 @@ export function Header() {
 					gdpr.fyi
 				</Link>
 			</div>
-			<div>
-				<Link href="/impressum">Projekt</Link>
+			<div className="flex gap-6">
+				<Link href="/projekt">Projekt</Link>
+				<Link href="/dpas">Behörden</Link>
 			</div>
 		</header>
 	);
