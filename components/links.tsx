@@ -5,7 +5,7 @@ function SiteLink({ href, children, className, ...rest }: React.ComponentProps<t
 	return (
 		<Link
 			href={href}
-			className={twMerge("transition-colors hover:text-blue-500 hover:underline", className)}
+			className={twMerge("transition-colors hover:text-pink-700", className)}
 			{...rest}
 		>
 			{children}
