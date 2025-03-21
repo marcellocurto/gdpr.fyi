@@ -11,20 +11,25 @@
     "check": "next lint && tsc --noEmit"
   },
   "dependencies": {
+    "@mdx-js/loader": "^3.1.0",
+    "@mdx-js/react": "^3.1.0",
+    "@next/mdx": "^15.2.3",
+    "@types/mdx": "^2.0.13",
     "easy-airtable-api": "^0.0.15",
+    "lucide-react": "^0.475.0",
     "next": "15.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "remark-gfm": "^4.0.1",
     "tailwind-merge": "^3.0.1",
-    "lucide-react": "^0.475.0",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@tailwindcss/postcss": "^4",
     "@next/eslint-plugin-next": "^15.1.7",
-    "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/postcss": "^4",
+    "@tailwindcss/typography": "^0.5.16",
     "@types/bun": "^1.2.5",
     "@types/node": "^20",
     "@types/react": "^19",
