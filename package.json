@@ -16,7 +16,7 @@
     "@next/mdx": "^15.2.3",
     "@types/mdx": "^2.0.13",
     "easy-airtable-api": "^0.0.15",
-    "lucide-react": "^0.475.0",
+    "lucide-react": "^0.486.0",
     "next": "15.2.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
