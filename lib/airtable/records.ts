@@ -47,6 +47,8 @@ type CasesFields = {
 	name?: string;
 	summary?: string;
 	status?: string;
+	dateStarted?: string;
+	dateEnded?: string;
 	dpa?: string[];
 	publish?: boolean;
 };
