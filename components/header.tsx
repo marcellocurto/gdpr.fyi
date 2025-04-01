@@ -9,8 +9,8 @@ export function Header() {
 				</Link>
 			</div>
 			<div className="flex gap-6">
-				<Link href="/projekt">Projekt</Link>
-				<Link href="/dpas">Behörden</Link>
+				<Link href="/faelle">Fälle</Link>
+				<Link href="/behoerden">Behörden</Link>
 			</div>
 		</header>
 	);
